@@ -1,10 +1,9 @@
-Welcome to Lumache's documentation!
+PyFlightCoach Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**PyflightCoach** is a collection of packages for working with flight data, principally aimed at plotting and analysing precision aerobatics,
+but many of the tools are useful for other applications. 
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -13,7 +12,8 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Lumache has its documentation hosted on Read the Docs.
+The PyFlightcoach documentation is hosted on Read the Docs.
+
 
 Contents
 --------

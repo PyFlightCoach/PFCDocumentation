@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
+Docs for PyFlightCoach
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
+This project is built from the tutorial for Read the Docs.
 https://docs.readthedocs.io/en/stable/tutorial/
