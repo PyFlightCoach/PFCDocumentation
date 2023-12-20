@@ -5,8 +5,6 @@ PyFlightCoach Documentation
 but many of the tools are useful for other applications. 
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
@@ -20,5 +18,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   installation
+   
