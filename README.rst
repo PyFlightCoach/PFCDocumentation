@@ -15,6 +15,6 @@ to serve:
 
 .. code-block:: console
 
-    $ cd build/html
+    $ cd build
     $ python -m http.server 8000 -d build/html
 
