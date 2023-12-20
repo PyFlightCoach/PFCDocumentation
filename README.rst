@@ -1,8 +1,18 @@
 Docs for PyFlightCoach
 =======================================
 
-This project is built from the tutorial for Read the Docs.
-https://docs.readthedocs.io/en/stable/tutorial/
-
-
 https://pfcdocumentation.readthedocs.io/
+
+
+to build:
+
+.. code-block:: console
+
+    $ cd docs
+    $ make html
+
+to serve:
+
+    $ cd build/html\
+    $ python -m http.server 8000 -d build/html
+
