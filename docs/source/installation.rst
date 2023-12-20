@@ -21,6 +21,7 @@ The PyflightCoach packages can be installed using pip or built from source
 Clone the source code:
 
 .. code-block:: console
+
    $ git clone https://github.com/PyFlightCoach/PyFlightCoach.git
    $ git submudules update --init --recursive
 
@@ -28,6 +29,7 @@ Clone the source code:
 To setup a conda environment with all the developer dependencies, run the following command:
 
 .. code-block:: console
+
    $ source make_conda_env.sh
 
 
