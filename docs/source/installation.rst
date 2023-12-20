@@ -1,5 +1,3 @@
-Usage
-=====
 
 .. _installation:
 
@@ -23,6 +21,7 @@ Clone the source code:
 .. code-block:: console
 
    $ git clone https://github.com/PyFlightCoach/PyFlightCoach.git
+   $ cd PyFlightCoach
    $ git submudules update --init --recursive
 
 
