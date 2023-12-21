@@ -14,3 +14,6 @@ A changelog is maintained in the GitHub repo: https://github.com/PyFlightCoach/F
 .. toctree::
 
    installation
+   usage
+   scoring
+
