@@ -22,7 +22,7 @@ Clone the source code:
 
    $ git clone https://github.com/PyFlightCoach/PyFlightCoach.git
    $ cd PyFlightCoach
-   $ git submudules update --init --recursive
+   $ git submudule update --init --recursive
 
 
 To setup a conda environment with all the developer dependencies, run the following command:
