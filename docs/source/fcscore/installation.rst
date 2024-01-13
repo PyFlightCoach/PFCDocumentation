@@ -25,7 +25,7 @@ Windows Setup for non-developers:
 
 1 - make a new folder on your computer.
 
-2 - download this file: https://github.com/PyFlightCoach/FCScore/blob/main/project/docker-co>
+2 - download this file: https://github.com/PyFlightCoach/FCScore/blob/main/project/docker-compose.yml
 
 3 - save it in the folder
 
