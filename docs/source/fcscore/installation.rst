@@ -3,7 +3,7 @@
 Installation
 ------------
 
-Setup with Docker:
+Setup with Docker (Linux):
 
 .. code-block:: console
 
@@ -18,3 +18,32 @@ To stop the server:
 .. code-block:: console
 
     $ docker compose down
+
+
+Windows Setup for non-developers:
+---------------------------------
+
+1 - make a new folder on your computer.
+
+2 - download this file: https://github.com/PyFlightCoach/FCScore/blob/main/project/docker-co>
+
+3 - save it in the folder
+
+4 - Follow these instructions to install docker and docker compose: https://docs.docker.com/compose/install/>
+
+5 - open the folder in file explorer, in the top bar type cmd, then press return
+
+6 - it should open a command window, type 'docker compose up' then press return
+
+7 - Hopefully it will tell you something like this:
+
+.. code-block:: console
+
+    >> VITE v4.5.1  ready in 1194 ms
+    >> ➜  Local:   http://localhost:5173/
+    >> ➜  Network: use --host to expose
+    >> ➜  press h to show help
+
+
+8 - open a webrowser (chrome or firefox, I havent tried others)
+9 - go to http://localhost:5173/
