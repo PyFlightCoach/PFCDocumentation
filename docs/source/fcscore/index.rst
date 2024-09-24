@@ -3,12 +3,15 @@
 FCScore
 =======
 
+FCScore is a tool for automatic judging of precision aerobatics. 
 
-FCScore is a tool for automatic judging of precision aerobatic competitions. It consists of a server and a client. The server is a 
-stateless Flask API, which provides access to tools written in the pyflightcoach libraries. The client is written using SvelteKit.
-At the moment the easiest way to run FCScore is with Docker, but we hope to release it as a web app at some point.
-A changelog is maintained in the GitHub repo: https://github.com/PyFlightCoach/FCScore/blob/main/changelog.md.
+The program consists of this web interface and an analysis server. We have a public analysis server running in the UK, but it could get very slow especially at busy times. For a better experience and to reduce the load on our server you can run the analysis server on your computer. To do this first install Docker and start it running, then run the following command in a terminal:
 
+.. code-block:: console
+    
+    docker run --rm -p 5000:5000 thomasdavid/fcs-server:latest
+
+This will download the latest version of the server and start it running. You can then select the local analysis server under the Options menu.
 
 
 .. toctree::
