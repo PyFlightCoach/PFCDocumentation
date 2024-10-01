@@ -3,6 +3,8 @@
 Installation
 ------------
 
+These instructions are to run both the client and server locally on your computer. This might be useful if you want to analyse flights without internet access. For general use you can just use the online version here. https://pyflightcoach.github.io/FCScoreClient/
+
 Setup with Docker (Linux):
 
 .. code-block:: console
