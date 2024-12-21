@@ -11,4 +11,3 @@ pyflightcoach
    ardupilot_log_reader
    flightdata
    flightplotting
-   flightanalysis
