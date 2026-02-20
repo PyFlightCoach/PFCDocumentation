@@ -1,20 +1,12 @@
-PyFlightCoach Documentation
-===================================
+PyFlightCoach
+=============
 
-**PyflightCoach** is a collection of packages for working with flight data, principally aimed at plotting and 
-analysing precision aerobatics, but many of the tools are useful for other applications. The project was started
-to facilitate automatic judging for precision aerobatic competitions. 
-
-The documentation is split into two parts, the first describes FCScore, which is a web app built on top of 
-the PyFlightCoach packages for people to analyse their own flights. The second part describes the packages
-themselves.
-
-
-Contents
---------
+PyFlightCoach is a collection of Python packages for the analysis and visualization of flight data, particularly from ArduPilot logs. The project was designed to support the automatic judging of precision aerobatics, but the underlying libraries are useful for a wide range of applications.
 
 .. toctree::
-
-   fcscore/index
-   pyflightcoach/index
+   :maxdepth: 2
    
+   installation
+   geometry
+   flightdata
+   flightplotting
